@@ -58,12 +58,13 @@
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/akashsingh3031)
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&amp;labelColor=white&amp;logo=geeksforgeeks&amp;logoColor=darkgreen)](https://auth.geeksforgeeks.org/user/akashsingh3031)
+[![CodingNinjas](https://img.shields.io/badge/-Coding_Ninjas-orange?style=flat&amp;labelColor=white&amp;logo=codingninjas&amp;logoColor=orange)](https://www.codingninjas.com/codestudio/profile/bdc47f17-9010-41bc-9566-f6d3a001afcc)
 [![work@tech](https://img.shields.io/badge/-work@tech-blue?style=flat&amp;labelColor=white&amp;logo=work@tech&amp;logoColor=blue)](https://workat.tech/profile/akashsingh3031)
 [![binarysearch](https://img.shields.io/badge/-binarysearch-darkblue?style=flat&amp;labelColor=white&amp;logo=binarysearch&amp;logoColor=darkblue)](https://binarysearch.com/@/akashsingh3031)
+[![InterviewBit](https://img.shields.io/badge/-InterviewBit-blue?style=flat&amp;labelColor=white&amp;logo=interviewbit&amp;logoColor=blue)](https://www.interviewbit.com/profile/akashsingh3031)
+[![CodeChef](https://img.shields.io/badge/-CodeChef-brown?style=flat&amp;labelColor=white&amp;logo=codechef&amp;logoColor=brown)](https://www.codechef.com/users/akashsingh3031)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat&amp;labelColor=white&amp;logo=hackerrank&amp;logoColor=green)](https://www.hackerrank.com/akashsingh3031)
 [![HackerEarth](https://img.shields.io/badge/-HackerEarth-650458?style=flat&amp;labelColor=white&amp;logo=hackerearth&amp;logoColor=650458)](https://www.hackerearth.com/@akashsingh3031)
-[![InterviewBit](https://img.shields.io/badge/-InterviewBit-blue?style=flat&amp;labelColor=white&amp;logo=interviewbit&amp;logoColor=blue)](https://www.interviewbit.com/profile/akashsingh3031)
-[![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-orange?style=flat&amp;labelColor=white&amp;logo=codingninjas&amp;logoColor=orange)](https://www.codingninjas.com/codestudio/profile/bdc47f17-9010-41bc-9566-f6d3a001afcc)
 [![Connect on StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&amp;labelColor=white&amp;logo=StackOverflow&amp;logoColor=FE7A16)](https://stackoverflow.com/users/18910829/akashsingh3031)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&amp;labelColor=white&amp;logo=kaggle&amp;logoColor=blue)](https://www.kaggle.com/akashsingh3031)
 <br>
@@ -111,7 +112,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | **[Akash Singh](https://prepverse.github.io/)** <br><br> [![LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&amp;labelColor=white&amp;logo=linkedin&amp;logoColor=0e76a8)](https://www.linkedin.com/in/akashsingh3031/) [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&amp;labelColor=white&amp;logo=facebook&amp;logoColor=blue)](https://www.facebook.com/akashsingh3031/) <br> [![Instragram](https://img.shields.io/badge/-Instagram-f3013b?style=flat&amp;labelColor=white&amp;logo=instagram&amp;logoColor=e84393)](https://www.instagram.com/akash.singh3031/) [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&amp;labelColor=white&amp;logo=twitter&amp;logoColor=1ca0f1&amp)](https://twitter.com/intent/follow?screen_name=akashsingh3031) |
 
-## `Awesome Contributors` ✨🎉 `70`
+## `Awesome Contributors` ✨🎉 `71`
 
 Thanks goes to these **Wonderful People** 👨🏻‍💻:       
 
@@ -283,6 +284,8 @@ Thanks goes to these **Wonderful People** 👨🏻‍💻:
 <td align="center"><a href="https://github.com/zufius"><img src="https://avatars.githubusercontent.com/u/19767623?v=4" width="100px;" alt=""/><br /><sub><b>zufius</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=zufius" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
 	
 <td align="center"><a href="https://github.com/Escanor29"><img src="https://avatars.githubusercontent.com/u/102870015?v=4" width="100px;" alt=""/><br /><sub><b>Escanor29</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=Escanor29" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
+	
+<td align="center"><a href="https://github.com/edo-ce"><img src="https://avatars.githubusercontent.com/u/72577095?v=4" width="100px;" alt=""/><br /><sub><b>edo-ce</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=edo-ce" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
 </table>
 
 
